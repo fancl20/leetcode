@@ -1,3 +1,6 @@
+/*
+ * https://en.wikipedia.org/wiki/Catalan_number
+ * */
 class Solution {
 	public:
 		int numTrees(int n) {
